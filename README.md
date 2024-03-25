@@ -1,7 +1,7 @@
 ## Notebooks Overview
-# Machine Learning Trained Notebooks Repository
+# AI Notebooks Repository
 
-Welcome to the Machine Learning Trained Notebooks repository! This collection of Jupyter notebooks showcases various machine learning models trained on different datasets, covering tasks such as Titanic survival prediction, MNIST digit classification using a fully connected network, MNIST digit classification, and a tumor project utilizing a Convolutional Neural Network (CNN).
+Welcome to the AI Notebooks repository! This collection of Jupyter notebooks showcases various AI projects and machine learning models trained on different datasets, covering tasks such as Titanic survival prediction, MNIST digit classification using a fully connected network, MNIST digit classification, and a tumor project utilizing a Convolutional Neural Network (CNN) and a GAN model over mnist.
 
 ## Overview
 
@@ -11,8 +11,8 @@ This repository serves as a resource for understanding and exploring machine lea
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/mohammad-khalilpour/Machine-learning-notebooks.git
-   cd Machine-learning-notebooks
+   git clone https://github.com/mohammad-khalilpour/AI-notebooks.git
+   cd AI-notebooks
 
 
 
