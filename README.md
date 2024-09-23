@@ -7,14 +7,6 @@ Welcome to the AI Notebooks repository! This collection of Jupyter notebooks sho
 
 This repository serves as a resource for understanding and exploring machine learning techniques through practical examples. The notebooks cover a diverse range of tasks and datasets, providing insights into model architectures, training processes, and evaluation metrics.
 
-## Quick Start
-
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/mohammad-khalilpour/AI-notebooks.git
-   cd AI-notebooks
-
-
 
 ### 1. [Titanic Prediction with Gaussian Bias](titanic%20prediction/titanic_nn.ipynb)
 
@@ -43,7 +35,12 @@ This repository serves as a resource for understanding and exploring machine lea
 ### 6. [AI course reinforcement learning](ai_corse_RF)
 - **Task:** learning to play snake game with deep RL
 - **Description:** AI course forth project to learn deep RL
-
+  
 ### 7. [GAN on mnist](mnist_GAN/Build_a_Generative_Adversarial_Network_on_mnist.ipynb)
-- **Task:** generative mnist pictures
+- **Task:** generates mnist pictures
 - **Description:** a fast project to learn GAN basics
+
+## 8. [Self-supervised monocular depth estimation](SDE)
+- **Task** estimating depth of each point in image
+- **Description** Using two images we can calculate the depth of each points with geometry, we will train a model to estimate depth based on only one image
+
