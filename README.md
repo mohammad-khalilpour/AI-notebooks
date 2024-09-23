@@ -40,7 +40,7 @@ This repository serves as a resource for understanding and exploring machine lea
 - **Task:** generates mnist pictures
 - **Description:** a fast project to learn GAN basics
 
-## 8. [Self-supervised monocular depth estimation](SDE)
+### 8. [Self-supervised monocular depth estimation](SDE)
 - **Task** estimating depth of each point in image
 - **Description** Using two images we can calculate the depth of each points with geometry, we will train a model to estimate depth based on only one image
 
